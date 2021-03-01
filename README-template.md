@@ -1,15 +1,17 @@
 # Put title of your app here
-
+iAdopt
 <!--- Replace <OWNER> with your Github Username and <REPOSITORY> with the name of your repository. -->
 <!--- You can find both of these in the url bar when you open your repository in github. -->
-![Workflow result](https://github.com/<OWNER>/<REPOSITORY>/workflows/Check/badge.svg)
+![Workflow result](https://github.com/psanikos/JetpackComposeChallenge1/workflows/Check/badge.svg)
 
 
 ## :scroll: Description
+Adopt a pet today!
 <!--- Describe your app in one or two sentences -->
 
 
 ## :bulb: Motivation and Context
+Really exited about Jetpack Compose
 <!--- Optionally point readers to interesting parts of your submission. -->
 <!--- What are you especially proud of? -->
 
